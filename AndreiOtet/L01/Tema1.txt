@@ -1,0 +1,6 @@
+Stack Overflow este un site web de intrebari si raspunsuri din domeniul programarii.
+Pe site iti poti crea un cont nou de utilizator sau te poti loga, mai simplu, cu ajutorul contului de google, facebook sau git.
+Dupa logare poti posta intrebari, poti vizualiza intrebari si poti sa raspunzi la cele existente.
+Poti cauta ce te intereseaza cu ajutorul search bar-urului sau poti sa selectezi un tag specific.
+Utilizatorii site-ului pot sa primeasca puncte de reputatie si badge-uri prin raspunsurile acordate la intrebari, considerate de alti utilizatori a fi corecte.
+Prin intermediul Stack Overflow exista posibilitatea sa iti gasesti un job.
